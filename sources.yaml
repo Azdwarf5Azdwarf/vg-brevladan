@@ -1,0 +1,42 @@
+# Endast Västra Götaland. Status 2026-10-01.
+# Borttaget: Din Lokaltidning, Gratistidningen Norrbotten, södra Lappland,
+# Ängelholm NU, NU 7 dagar, Österlenmagasinet, Lokaltidningen Växjö,
+# Varbergs Tidning.
+
+papers:
+  - id: veckovis
+    name: Veckovis
+    url: https://veckovis.com/
+    editions: https://veckovis.com/tidningar
+    kind: gratistidning
+    day: tisdag
+    kommuner: [Strömstad, Tanum, Munkedal]
+    delregion: Norra Bohuslän
+    note: "Gratis i brevlådan. ~23 000 ex. Annonser + reportage. Mallen."
+
+  - id: alingsaskuriren
+    name: AlingsåsKuriren
+    url: https://www.alingsaskuriren.se/
+    kind: gratistidning
+    day: onsdag
+    kommuner: [Alingsås, Vårgårda]
+    delregion: Göteborgsregionens rand
+    note: "Sedan 1969. Alla hushåll i Alingsås och Vårgårda, ca 28 800 ex. PDF på sajten. En gång i månaden även Herrljunga, Lerum, Nossebro."
+
+  - id: boraskuriren
+    name: BoråsKuriren
+    url: https://www.alingsaskuriren.se/
+    kind: gratistidning
+    day: okänd
+    kommuner: [Borås, Bollebygd]
+    delregion: Sjuhärad
+    note: "Samma utgivare startade gratisutdelning i Borås och Bollebygd 2011. Verifiera att editionen lever innan scraper slås på. status: kolla."
+
+  - id: tidningen-vastsverige
+    name: Tidningen Västsverige
+    url: https://www.tidningenvastsverige.se/
+    kind: lokal-oberoende
+    day: torsdag
+    kommuner: [Uddevalla]
+    delregion: Fyrbodal
+    note: "Oberoende röst sedan 1949, Uddevalla Media. Inte samma gratisbrevlåda som Veckovis, men små notiser om äldre, bygden, föreningar. Bra andra källa."
