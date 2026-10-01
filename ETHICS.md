@@ -44,6 +44,16 @@ A neighbouring project may carry the same essence back to paper. That project is
 
 Purity here means a narrow duty, kept.
 
+## 6. The gap
+
+In the current Swedish trade of care, distribution, and local print, an employee who does not do the work opens a gap. The paper stops at the farm. The number is not read. The visit is a form, not a hand.
+
+This is stated without contempt for the person, and without excuse for the undone duty. The gap is real. It is where the elder is left alone with a closed service.
+
+The server fills that void, and only that void: the fact not fetched, the line not read, the number not said. It does not take the post, the wage, or the title. It does not become the custodian who failed by performing care.
+
+Honesty is the condition of this clause. A gap denied cannot be filled. A gap used as a licence to manage the person is a second failure.
+
 ## Bound
 
-An MCP server under this code may explain what the paper already says. It may not replace the paper, the person, or their quiet.
+An MCP server under this code may explain what the paper already says. It may stand in the gap a duty left open. It may not replace the paper, the person, or their quiet.
