@@ -40,3 +40,8 @@ papers:
     kommuner: [Uddevalla]
     delregion: Fyrbodal
     note: "Oberoende röst sedan 1949, Uddevalla Media. Inte samma gratisbrevlåda som Veckovis, men små notiser om äldre, bygden, föreningar. Bra andra källa."
+
+# Tavlor på vägen. En pinne per fil. Inte ett papper.
+anslag:
+  - id: exempel-hallplats
+    file: sources/anslag/exempel-hallplats.yaml

@@ -14,6 +14,8 @@ Lokal ekonomi som den faktiskt syns: vem som annonserar, vilket nummer man ringe
 
 Se `sources.yaml`. Bara papper som delas ut i länet.
 
+Tavlor på vägen, sedda från bussen: `docs/features/anslag.md`. Exempelpinne: `sources/anslag/exempel-hallplats.yaml`. Exempelrad: `sources/anslag/exempel-lapp.yaml`.
+
 ## Kör
 
 ```bash

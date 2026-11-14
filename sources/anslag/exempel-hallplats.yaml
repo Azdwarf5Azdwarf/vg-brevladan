@@ -1,0 +1,10 @@
+id: exempel-hallplats
+name: Anslagstavla vid busshållplats
+kind: anslag
+slag: hallplats
+kommun: null
+lat: null
+lon: null
+vanligen: affisch
+seen: 2026-11-14
+note: "Exempelpinne. Formen av en tavla man passerar från bussen. Kommun och koordinat fylls när hållplatsen är gången. Ingen bild."

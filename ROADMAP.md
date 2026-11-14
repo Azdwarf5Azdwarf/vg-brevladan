@@ -61,6 +61,8 @@ När rösten inte räcker ska samma essens kunna gå tillbaka till papper.
 Det är ett annat projekt: **elderly2fax**.
 Hint only. Eget repo, troligen privat, egen kontext. Brevladan exporterar en rad (vem, nummer, en mening, vecka). Fax-projektet äger tonval, försättssida och sändning. Blanda inte ihop dem.
 
+Anslag är intaget åt andra hållet: tavlan man passerar från bussen, in i samma databas. Planen är `docs/features/anslag.md`. Fotot stannar utanför git. Eget spår, inte en kartapp.
+
 ### 6. Andra tidningen
 Först när Veckovis klarar testet ovan. Sen AlingsåsKuriren, samma schema.
 
