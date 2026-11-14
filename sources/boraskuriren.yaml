@@ -1,0 +1,8 @@
+id: boraskuriren
+name: BoråsKuriren
+url: https://www.alingsaskuriren.se/
+kind: gratistidning
+day: okänd
+kommuner: [Borås, Bollebygd]
+delregion: Sjuhärad
+note: "Samma utgivare startade gratisutdelning i Borås och Bollebygd 2011. Verifiera att editionen lever innan scraper slås på. status: kolla."
