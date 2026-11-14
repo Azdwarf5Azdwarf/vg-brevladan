@@ -3,7 +3,8 @@
 Planen för ett eget spår: lokala marknader i tidningen, och marknader som dyker upp.
 Inte en ny app. Inte TTS. Ingen kod förrän rutorna under "Innan något går utåt" är avbockade.
 
-Ärende: skapas när den här filen är läst. Gren: `glogg`, från `main` (`e66bcd3`).
+Ärende: https://github.com/Azdwarf5Azdwarf/vg-brevladan/issues/3
+Gren: `glogg`, från `main` (`e66bcd3`).
 Namnet glögg står. Dennis, 2026-11-14.
 
 Riktning samma dag: lokaltidning och lokal marknad. Vi skrapar webbplatser som har PDF:erna, och webbplatser för det andra. Fallens dagar är en webbplats.
@@ -52,7 +53,7 @@ Julbord, julkonsert och julerbjudanden i butik är inte marknader. De stannar i 
 ## Ordning
 
 1. Dennis läser den här filen.
-2. Ett ärende, den här grenen. Ärendet pekar hit. Den här filen pekar på ärendet.
+2. Ett ärende, den här grenen. Ärendet är nummer 3 och pekar hit.
 3. Dela `sources.yaml`. Marknaderna ligger i `sources/markets/`.
 4. Lägg Fallens dagar som marknadskort, en webbplats.
 5. Ett filter på befintliga rader. Marknad känns igen på orden julmarknad och loppis i `what` eller `name`.
@@ -61,7 +62,7 @@ Julbord, julkonsert och julerbjudanden i butik är inte marknader. De stannar i 
 
 ## Innan något går utåt
 
-- [ ] Dennis har läst den här filen.
+- [x] Dennis har läst den här filen och bett om commit, push och PR (2026-11-14).
 - [x] `sources/` har de fyra papper som redan fanns.
 - [x] `sources/markets/fallens-dagar.yaml` finns. Webbplats, inget kopierat program.
 - [ ] Ingen ny scrape.
