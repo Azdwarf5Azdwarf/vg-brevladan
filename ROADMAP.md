@@ -30,6 +30,16 @@ Ett test, en tisdag, ett hushåll:
 
 Då är målet nått. Fler tidningar är bara fler rader.
 
+## MVP, nu
+
+Ett test för hela projektet, innan riktiga hushåll:
+
+1. Tre veckors Veckovis, skannade (eller PDF om de finns på nätet). Rader extraheras och sparas. Skanningarna stannar utanför git.
+2. En lokal LiveKit-agent i terminalen: tal till text, en LLM via API, text till tal.
+3. Ett samtal: någon spelar en gamling som pratar igenom veckans tidning med agenten.
+
+Klart när samtalet går igenom utan skärm, och agenten bara säger det som står i raderna.
+
 ## Steg
 
 ### 0. Länet, inte landet
