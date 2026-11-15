@@ -1,5 +1,7 @@
 # Roadmap
 
+Riktning 2026-11-14, Dennis: lokaltidning och lokala marknader. Vi skrapar webbplatser som har PDF:erna, och webbplatser för det andra. Fallens dagar är en webbplats. Brevlådan nedan är mallen vi började med. Se `README.md` och `docs/features/glogg.md`.
+
 Målet är diskret samla små tidningar i Västra Götaland.
 
 Målet är uppnått när en modell, via MCP, kan förklara för en gamling med ren TTS — och gubben eller kärringen har pappret framför sig.

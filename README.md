@@ -1,18 +1,22 @@
 # vg-brevladan
 
-Personligt verktyg för gratistidningar i **Västra Götaland**.
+Personligt verktyg för lokala tidningar och lokala marknader i **Västra Götaland**.
 
-Mallen är [Veckovis](https://veckovis.com/): tisdag i brevlådan, annonser, telefonnummer, vad som händer. Inga världshändelser.
+Mallen vi började med är [Veckovis](https://veckovis.com/): tisdag i brevlådan, annonser, telefonnummer, vad som händer. Inga världshändelser.
+
+Nästa lager är marknader. Vi skrapar webbplatser som har PDF:erna, och webbplatser för det andra. Första tillagda: Trollhättans Fallens dagar, en webbplats.
 
 Allt utanför länet är borttaget. Skåne, Norrbotten, Gävleborg, Halland ingår inte.
 
 ## Vad det känner av
 
-Lokal ekonomi som den faktiskt syns: vem som annonserar, vilket nummer man ringer, vilken loppmarknad, vilken bygdegård. Det är essensen, inte en nyhetsfeed.
+Lokal ekonomi som den faktiskt syns: vem som annonserar, vilket nummer man ringer, vilken loppmarknad, vilken bygdegård. Och marknaden när den dyker upp, med källa. Inte en världsnyhetsfeed.
 
 ## Källor
 
-Se `sources.yaml`. Bara papper som delas ut i länet.
+`sources.yaml` är registret. Ett papper per fil i `sources/`. En marknad per fil i `sources/markets/`.
+
+Bara sådant som hör till länet. Fallens dagar: `sources/markets/fallens-dagar.yaml`. Den hör till webbplatserna, inte till PDF:erna.
 
 ## Kör
 
