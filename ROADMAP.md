@@ -7,6 +7,7 @@ Målet är diskret samla små tidningar i Västra Götaland.
 Målet är uppnått när en modell, via MCP, kan förklara för en gamling med ren TTS — och gubben eller kärringen har pappret framför sig.
 
 Modellen har kontexten digitalt. Människan har tidningen. TTS pekar på pappret, den ersätter det inte.
+Den kommer innehålla STT och LLM också för de lilla reasoning lagret ovanpå den talar frågor i paradoxer och låter den äldre bestämma de poi-vägen alltid där hemma. Den är neutral i lagret nedan detta handlar om lokala fina nyheter ingen politik direkt
 
 ## Bilden
 
@@ -29,8 +30,20 @@ Ett test, en tisdag, ett hushåll:
 3. Gamlingen frågar högt: vad händer på lördag, och vilket nummer.
 4. TTS svarar i korta meningar, pekar på pappret, läser inte om världen.
 5. Ingen skärm behövs för svaret.
+6. Ett snabbt test; på bibloteken sitter alla gamlingar i ett hörn och läser tidningarna som samlas där dem pratar inte men det är något där jag inte vill ersätta. Bara om jag kan ordna något så andra gamlingar vet att de finns och dem kan lära sig om marknader, nyheter och butiker. För dem sprider det mun till mun bäst.
+7. Frågan är bara svarad tills de får se det. Arketypen finns de barnbarnet som hjälper med tekniken - och alltid svarar mormor och morfars samtal och dyker upp (detta är för mig att simulera känslan.)
 
 Då är målet nått. Fler tidningar är bara fler rader.
+
+## MVP, nu
+
+Ett test för hela projektet, innan riktiga hushåll:
+
+1. Tre veckors Veckovis, skannade (eller PDF om de finns på nätet). Rader extraheras och sparas. Skanningarna stannar utanför git.
+2. En lokal LiveKit-agent i terminalen: tal till text, en LLM via API, text till tal.
+3. Ett samtal: någon spelar en gamling som pratar igenom veckans tidning med agenten.
+
+Klart när samtalet går igenom utan skärm, och agenten bara säger det som står i raderna.
 
 ## Steg
 
