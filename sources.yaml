@@ -18,3 +18,7 @@ papers:
 markets:
   - id: fallens-dagar
     file: sources/markets/fallens-dagar.yaml
+
+kampanjer:
+  - id: ereklamblad
+    file: sources/ereklamblad.yaml
