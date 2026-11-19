@@ -13,3 +13,5 @@ Därför börjar jag i Västra Götaland och bara där. Norra Bohuslän först, 
 Att spara numret är en kärlekshandling mot tidningen. Inte att kopiera den. Att kunna svara: på lördag i Tanum, det här händer, ring hit. Det är tidningen, sagd högt, för den som inte orkar bläddra.
 
 Jag älskar tidningar för att de fortfarande är ett ställe där en liten affär får finnas bredvid en begravningsannons och en loppmarknad. Den ordningen är bygden.
+
+Från bussen ser man tavlorna innan man ser tidningen. Hållplatsen, affären, bygdegården. Lapparna sitter redan där, bytta sedan i tisdags. Det är samma karta, en punkt närmare: platsen man faktiskt passerar. Tidningen säger vad som händer i bygden. Tavlan säger vad som händer på vägen.

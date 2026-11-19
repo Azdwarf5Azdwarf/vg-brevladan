@@ -18,6 +18,8 @@ Lokal ekonomi som den faktiskt syns: vem som annonserar, vilket nummer man ringe
 
 Bara sådant som hör till länet. Fallens dagar: `sources/markets/fallens-dagar.yaml`. Den hör till webbplatserna, inte till PDF:erna.
 
+Tavlor på vägen, sedda från bussen: `docs/features/anslag.md`. Exempelpinne: `sources/anslag/exempel-hallplats.yaml`. Exempelrad: `sources/anslag/exempel-lapp.yaml`.
+
 ## Kör
 
 ```bash

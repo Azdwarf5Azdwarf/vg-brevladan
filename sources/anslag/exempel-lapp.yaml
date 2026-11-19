@@ -1,0 +1,11 @@
+id: exempel-lapp
+spot: exempel-hallplats
+paper: anslag
+kind: anslag
+kommun: null
+seen: 2026-11-14
+when: null
+what: "En lapp på tavlan. Exempel på raden, inte en avskriven affisch."
+phone: saknas
+source: "foto, utanför git"
+note: "Påhittad form. Inget nummer. Ingen brödtext. Privat lapp (namn, säljes, dödsannons) laddas inte."

@@ -4,6 +4,7 @@
 # Varbergs Tidning.
 #
 # Registret. Ett papper per fil i sources/. En marknad per fil i sources/markets/.
+# En tavla per fil i sources/anslag/.
 
 papers:
   - id: veckovis
@@ -22,3 +23,8 @@ markets:
 kampanjer:
   - id: ereklamblad
     file: sources/ereklamblad.yaml
+
+# Tavlor på vägen. En pinne per fil. Inte ett papper.
+anslag:
+  - id: exempel-hallplats
+    file: sources/anslag/exempel-hallplats.yaml
